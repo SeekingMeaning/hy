@@ -19,6 +19,11 @@ To install the latest stable release of Hy, just use the command ``pip3 install
 --user hy``. Then you can start an interactive read-eval-print loop (REPL) with
 the command ``hy``, or run a Hy program with ``hy myprogram.hy``.
 
+To install the latest stable release of Hy, just use the command ``pip3 install
+--user hy``. (If you have `Homebrew <https://brew.sh>`_, you can use ``brew
+install hy``.) Then you can start an interactive read-eval-print loop (REPL)
+with the command ``hy``, or run a Hy program with ``hy myprogram.hy``.
+
 .. toctree::
    :maxdepth: 3
 
